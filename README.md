@@ -15,7 +15,12 @@
 * 上位机：采用C#搭建的上位机实现系统状态信息的实时显示及参数控制；
 ## 项目照片
 ### 装置溶血实验
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a0aab91-835e-44de-8a37-262c6a86df05" />
 
 ### 装置上位机
+<img width="2339" height="1297" alt="image" src="https://github.com/user-attachments/assets/f5c1d295-aabb-406c-b1e5-82a994c731a2" />
+<img width="1649" height="1273" alt="image" src="https://github.com/user-attachments/assets/6ad19af0-f20b-44fc-b2da-55511d9f8161" />
+<img width="894" height="287" alt="image" src="https://github.com/user-attachments/assets/f302ef8f-b8ff-4448-b317-c0eda0a6d9a7" />
 
 ### 装置控制箱
+<img width="1706" height="1280" alt="image" src="https://github.com/user-attachments/assets/97f429fa-f282-4d23-b480-7df7abed52a5" />
